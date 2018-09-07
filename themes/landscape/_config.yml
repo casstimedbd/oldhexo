@@ -37,7 +37,7 @@ fb_admins:
 fb_app_id:
 
 giteement:
-  enable: true
+  enable: false
   redirect_uri: https://cassdbd.gitee.io/community
   oauth_uri: https://cors-anywhere.herokuapp.com
   giteeID: 'cassdbd'
