@@ -13,8 +13,8 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://cassdbd.gitee.io/community
-root: /community
+url: https://casstimedbd.github.io
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -79,5 +79,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://gitee.com/tanjianwen/casstimedbd.git
+  repo: https://github.com/casstimedbd/casstimedbd.github.io.git
   branch: master
